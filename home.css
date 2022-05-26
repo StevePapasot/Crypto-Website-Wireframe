@@ -1,0 +1,111 @@
+/*------------------------- International ---------------------------*/
+
+/*----------------------------- Navbar ------------------------------*/
+.navground, .dropground{
+    background-color:#0a2942;
+}
+
+/*----------------------------------- Section One --------------------------*/
+.sor{
+    background-color:#86a9c0e8;
+}
+/*.lowersection{
+    background-color: #fff;
+}*/
+.sol{
+    background-image: url('/Images/one.jpg');
+    height:550px;
+    width: 100%;
+}
+@media (max-width:959px ){
+    .sol{
+        background-image: url('/Images/one.jpg');
+        background-repeat: no-repeat;
+        height:750px;
+        width: 400px;;
+    }
+    .sor{
+        height: 650px;
+    }
+}
+/*----------------------------------- Section Two --------------------------*/
+.sect{
+    background-color:#0a2942;
+    height: 800px;
+}
+.sect img{
+    height: 700px;
+    width:720px;
+    padding-top: 8rem;
+    padding-left: 4rem;
+}
+.parags{
+    height: 500px;
+    width:780px;
+    padding-top: 14rem;
+    padding-left: 4rem;
+    color:#fff;
+}
+@media (max-width:995px){
+    .sect{
+        background-color:#0a2942;
+        height: 1300px;
+    }
+    .parags{
+        height: 500px;
+        width:780px;
+        padding-top: 0.2rem;
+        padding-left: 5rem;
+        color:#fff;
+    }
+}
+/*----------------------------------- Featured In --------------------------*/
+.featured{
+    background-color: #ececec;
+    text-align:center;
+    height:530px;
+}
+/*----------------------------------- Section Three --------------------------*/
+.three{
+    height:530px;
+    background-color: #0a2942;
+    padding-left: 5rem;
+    padding-top: 5rem;
+}
+.cbst{
+    width:69px;
+}
+.t{
+    color:#fff;
+}
+@media (max-width:1000px){
+    .three{
+        height:730px;
+    }
+}
+@media (max-width:746px){
+    .three{
+        height:900px;
+    }
+}
+/*----------------------------------- Contact --------------------------*/
+.conl{
+    background-color: #f0f0f0;
+}
+.formm{
+    padding: 8.2rem;
+}
+/*----------------------------------- Footer -----------------------------*/
+footer{
+    background-color:#dcdcdc;
+    height:350px;
+    text-align:center;
+    padding: 6rem;
+}
+.fh{
+    font-size: 47px;
+}
+.f {
+    font-size:22px;
+}
+

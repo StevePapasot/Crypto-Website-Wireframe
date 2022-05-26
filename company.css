@@ -1,0 +1,111 @@
+/*------------------------- International ---------------------------*/
+
+/*----------------------------- Navbar ------------------------------*/
+.navground, .dropgraound{
+    color: #000;
+}
+/*---------------------------- Company Tag ----------------------------*/
+.comptag{
+    background-color:#e8e8e8;
+    height: 130px;
+    text-align: center;
+}
+/*--------------------------- Section 1 -------------------------------*/
+.sect{
+    background-color:#fff;
+    height: 800px;
+}
+.sect img{
+    height: 500px;
+    width:520px;
+    margin-top: 7rem;
+    margin-left: 13rem;
+}
+.parags{
+    height: 500px;
+    width:780px;
+    padding-top: 10rem;
+    padding-left: 4rem;
+    color:#000;
+}
+@media (max-width:995px){
+    .sect{
+        background-color:#fff;
+        height: 1300px;
+    }
+    .parags{
+        height: 500px;
+        width:780px;
+        padding-top: 0.2rem;
+        padding-left: 5rem;
+        color:#000;
+    }
+}
+@media (max-width:660px){
+    .parags{
+        height: 500px;
+        width:780px;
+        margin-top: 0.2rem;
+        margin-left: 2rem;
+        color:#000;
+    }
+    .sect img{
+        height: 500px;
+        width:520px;
+        margin-top: 7rem;
+        margin-left: 3rem;
+    }
+}
+/*------------------------------- Section 2-----------------------------*/
+.sectt{
+    text-align: center;
+}
+/*------------------------------ Members --------------------------------*/
+.members{
+    padding:100px 50px 50px 135px;
+    background-color: #e8e8e8;
+}
+.companyimg{
+    width:300px;
+    height:150px;
+}
+/*--------------------------------- Team -------------------------------*/
+.team{
+    text-align: center;
+}
+.profimg{
+    width:250px;
+    height: 250px;
+}
+/*-------------------------------- Security -----------------------------*/
+.security{
+    text-align: center;
+    padding: 20px 5px;
+}
+.securimg{
+    width: 190px;
+}
+
+/*--------------------------------- Last-Part -----------------------------*/
+.lpar{
+    background-image: url('/Images/company3.jpg');
+    height: 600px;
+    width: 100%;
+    opacity: 0.8;
+}
+
+
+/*---------------------------------- Footer --------------------------------*/
+footer{
+    background-color:#dcdcdc;
+    height:300px;
+    text-align:center;
+    padding: 6rem;
+}
+.fh{
+    font-size: 47px;
+}
+.f {
+    font-size:22px;
+}
+

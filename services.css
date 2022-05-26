@@ -1,0 +1,44 @@
+/*------------------------- International ---------------------------*/
+
+/*----------------------------- Navbar ------------------------------*/
+.navground, .dropground{
+    background-color:#fff;
+}
+/*------------------------------ Services ------------------------------*/
+.serv{
+    text-align: center;
+    background-color:#e8e8e8;
+    height: 140px;
+}
+.card{
+    background-color:#f0f0f056;
+    text-align: center;
+}
+.simg{
+    width:100px;
+    height:100px;
+    justify-content: center;
+    margin-left: 90px;
+    margin-top:40px;
+}
+/*----------------------------------- Contact --------------------------*/
+.conl{
+    background-color: #f0f0f0;
+}
+.formm{
+    padding: 8.2rem;
+}
+/*----------------------------------- Footer -----------------------------*/
+footer{
+    background-color:#dcdcdc;
+    height:350px;
+    text-align:center;
+    padding: 6rem;
+}
+.fh{
+    font-size: 47px;
+}
+.f {
+    font-size:22px;
+}
+
